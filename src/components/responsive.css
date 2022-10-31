@@ -1,0 +1,15 @@
+@media only screen and (max-width: 600px) {
+    #contact {
+      padding-top:10rem;
+    }
+    #h5{
+      padding-top: 5rem;
+      height: 9rem;
+    }
+    #about{
+      padding-top: 4rem;
+    }
+  }
+  #h5{
+    height: 10rem;
+  }
